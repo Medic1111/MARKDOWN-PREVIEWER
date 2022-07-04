@@ -4,6 +4,8 @@
 
 ![image of app](./public/img.png)
 
+> NOT MOBILE FRIENDLY
+
 ## THE PROJECT
 
 This project is part of FCC curriculum final projects to obtain the frontend certification
